@@ -1,11 +1,11 @@
 # Collision-Free Robotic Manipulation: A Review and Bibliometric Analysis
 
-**DOI del artículo**: www
+**Article DOI**: www
 
-## Descripción
-Este repositorio contiene recursos asociados al artículo _"Collision-Free Robotic Manipulation: A Review and Bibliometric Analysis"_, el cual presenta una revisión exhaustiva y un análisis bibliométrico de la manipulación robótica sin colisiones. Incluye los datos, resultados y herramientas utilizadas en el estudio, con el objetivo de facilitar la replicación, la exploración interactiva y la colaboración en este campo.
+## Description
+This repository contains resources associated with the article _‘Collision-Free Robotic Manipulation: A Review and Bibliometric Analysis’_, which presents a comprehensive review and bibliometric analysis of collision-free robotic manipulation. It includes the data, results and tools used in the study, with the aim of facilitating replication, interactive exploration and collaboration in the field.
 
-## Autores
+## Authors
 - Francisco José Martínez-Peral¹*  
 - Jose Antonio Ferez-Rubio¹  
 - Dennis Mronga²  
@@ -13,45 +13,45 @@ Este repositorio contiene recursos asociados al artículo _"Collision-Free Robot
 - Jose Vicente Segura Heras⁴  
 - Carlos Perez-Vidal¹  
 
-**Afiliaciones**:
-1. Instituto de Investigación en Ingeniería I3E, Universidad Miguel Hernández, España.  
-2. Robotics Innovation Centre, German Research Centre for Artificial Intelligence (DFKI), Alemania.  
+**Afiliations**:
+1. Institute for Engineering Research I3E, Miguel Hernández University, Spain.  
+2. Robotics Innovation Centre, German Research Centre for Artificial Intelligence (DFKI), Germany.  
 3. Yardstick Robotics GmbH, Alemania.  
-4. Centro de Investigación Operativa, Universidad Miguel Hernández, España.  
+4. Operations Research Centre Institute, Miguel Hernández University, Spain.  
 
-**Contacto**:  
-Correspondencia: [francisco.martinezp@umh.es](mailto:francisco.martinezp@umh.es)
+**Contact**:  
+Correspondence: [francisco.martinezp@umh.es](mailto:francisco.martinezp@umh.es)
 
 ---
 
-## Contenido del Repositorio
-Este repositorio incluye los siguientes recursos:
+## Repository Content
+This repository includes the following resources:
 
 ### Datasets
 
 1. **`search1.xlsx`**:  
-   - **Número de publicaciones**: 1526.  
-   - **Descripción**: Identifica títulos (TI) o palabras clave (AK) que contienen los términos _"collision avoidance"_ o _"collision-free"_ combinados con _"robot"_. Se excluyen términos relacionados con movilidad como _"mobile robots"_, _"autonomous"_, entre otros.
+   - **Number of publications**: 1526.  
+   - **Description**: Identifies titles (TI) or keywords (AK) containing the terms _‘collision avoidance’_ or _‘collision-free’_ combined with _‘robot’_. Excludes mobility-related terms such as _‘mobile robots’_, _‘autonomous’_, among others.
 
 2. **`search2.xlsx`**:  
-   - **Número de publicaciones**: 291.  
-   - **Descripción**: Basándose en los criterios de la búsqueda 1, se añaden términos como _"pick place"_, _"manipulator"_, _"arm"_ en los títulos o palabras clave, junto con _"collision avoidance"_ o _"collision-free"_. Se mantienen las exclusiones relacionadas con la movilidad.
+   - **Number of publications**: 291.  
+   - **Description**: Based on the criteria of search 1, terms such as _‘pick place’_, _‘manipulator’_, _‘arm’_ are added in the titles or keywords, together with _‘collision avoidance’_ or _‘collision-free’_. Exclusions related to mobility are maintained.
 
 3. **`search3.xlsx`**:  
-   - **Número de publicaciones**: 237.  
-   - **Descripción**: Se mantienen los criterios de la búsqueda 2, pero se agrega un filtro adicional para restringir los resultados a áreas específicas como **Ingeniería, Robótica, Ciencias de la Computación o Sistemas de Control Automático**.
+   - **Number of publications**: 237.  
+   - **Description**: The criteria of search 2 are maintained, but an additional filter is added to restrict the results to specific areas such as **Engineering, Robotics, Computer Science or Automatic Control Systems**.
 
 4. **`search4.xlsx`**:  
-   - **Número de publicaciones**: 169.  
-   - **Descripción**: Además de los criterios de la búsqueda 3, se introduce un filtro temporal para incluir solo publicaciones de los años **2014 a 2024**.
+   - **Number of publications**: 169.  
+   - **Description**: In addition to the criteria of search 3, a temporal filter is introduced to include only publications from the years **2014 to 2024**.
 
 
-### Exploración Interactiva
-El repositorio también incluye un archivo `.html` que permite acceder a una visualización interactiva de la base de datos utilizada en el artículo. Este archivo incluye gráficos y herramientas que permiten explorar tendencias y patrones de colaboración global.
+###  Interactive Browsing
+The repository also includes a `.html` file that allows access to an interactive visualisation of the database used in the article. This file includes graphs and tools that allow you to explore trends and patterns of global collaboration.
 
-- **Archivo**: `database_exploration.html`
-- **Cómo usarlo**:
-  1. Descarga el archivo desde el repositorio.
-  2. Ábrelo con cualquier navegador web moderno (por ejemplo, Google Chrome, Firefox o Edge).
+- **File**: `database_exploration.html`.
+- **How to use it:**
+  1. Download the file from the repository.
+  2. Open it with any modern web browser (e.g. Google Chrome, Firefox or Edge).
 
 ---
