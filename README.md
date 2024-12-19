@@ -27,18 +27,31 @@ Correspondencia: [francisco.martinezp@umh.es](mailto:francisco.martinezp@umh.es)
 ## Contenido del Repositorio
 Este repositorio incluye los siguientes recursos:
 
-1. **Datasets**:  
-   - Los archivos en formato `.xlsx` correspondientes a las cuatro búsquedas realizadas durante el análisis bibliométrico.  
-     - `dataset1.xlsx`: Datos sobre evitación de colisiones.  
-     - `dataset2.xlsx`: Datos sobre planificación y optimización de trayectorias.  
-     - `dataset3.xlsx`: Datos sobre aprendizaje por refuerzo y planificación autónoma.  
-     - `dataset4.xlsx`: Datos sobre robótica colaborativa y seguridad.
+### Datasets
 
-2. **Exploración interactiva**:  
-   - Archivo `.html` que permite acceder a una visualización interactiva de la base de datos utilizada en el artículo. Este archivo incluye gráficos y herramientas que permiten explorar tendencias y patrones de colaboración global.
+1. **`search1.xlsx`**:  
+   - **Número de publicaciones**: 1526.  
+   - **Descripción**: Identifica títulos (TI) o palabras clave (AK) que contienen los términos _"collision avoidance"_ o _"collision-free"_ combinados con _"robot"_. Se excluyen términos relacionados con movilidad como _"mobile robots"_, _"autonomous"_, entre otros.
+
+2. **`search2.xlsx`**:  
+   - **Número de publicaciones**: 291.  
+   - **Descripción**: Basándose en los criterios de la búsqueda 1, se añaden términos como _"pick place"_, _"manipulator"_, _"arm"_ en los títulos o palabras clave, junto con _"collision avoidance"_ o _"collision-free"_. Se mantienen las exclusiones relacionadas con la movilidad.
+
+3. **`search3.xlsx`**:  
+   - **Número de publicaciones**: 237.  
+   - **Descripción**: Se mantienen los criterios de la búsqueda 2, pero se agrega un filtro adicional para restringir los resultados a áreas específicas como **Ingeniería, Robótica, Ciencias de la Computación o Sistemas de Control Automático**.
+
+4. **`search4.xlsx`**:  
+   - **Número de publicaciones**: 169.  
+   - **Descripción**: Además de los criterios de la búsqueda 3, se introduce un filtro temporal para incluir solo publicaciones de los años **2014 a 2024**.
+
+
+### Exploración Interactiva
+El repositorio también incluye un archivo `.html` que permite acceder a una visualización interactiva de la base de datos utilizada en el artículo. Este archivo incluye gráficos y herramientas que permiten explorar tendencias y patrones de colaboración global.
+
+- **Archivo**: `database_exploration.html`
+- **Cómo usarlo**:
+  1. Descarga el archivo desde el repositorio.
+  2. Ábrelo con cualquier navegador web moderno (por ejemplo, Google Chrome, Firefox o Edge).
 
 ---
-
-## Cómo usar el repositorio
-
-
