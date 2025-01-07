@@ -29,19 +29,19 @@ This repository includes the following resources:
 
 ### Datasets
 
-1. **`search1.xlsx`**:  
-   - **Number of publications**: 1526.  
+1. **`search_1_1515.xlsx`**:  
+   - **Number of publications**: 1515.  
    - **Description**: Identifies titles (TI) or keywords (AK) containing the terms _‘collision avoidance’_ or _‘collision-free’_ combined with _‘robot’_. Excludes mobility-related terms such as _‘mobile robots’_, _‘autonomous’_, among others.
 
-2. **`search2.xlsx`**:  
-   - **Number of publications**: 291.  
+2. **`search_2_288.xlsx`**:  
+   - **Number of publications**: 288.  
    - **Description**: Based on the criteria of search 1, terms such as _‘pick place’_, _‘manipulator’_, _‘arm’_ are added in the titles or keywords, together with _‘collision avoidance’_ or _‘collision-free’_. Exclusions related to mobility are maintained.
 
-3. **`search3.xlsx`**:  
-   - **Number of publications**: 237.  
+3. **`search_3_234.xlsx`**:  
+   - **Number of publications**: 234.  
    - **Description**: The criteria of search 2 are maintained, but an additional filter is added to restrict the results to specific areas such as **Engineering, Robotics, Computer Science or Automatic Control Systems**.
 
-4. **`search4.xlsx`**:  
+4. **`search_4_169.xlsx`**:  
    - **Number of publications**: 169.  
    - **Description**: In addition to the criteria of search 3, a temporal filter is introduced to include only publications from the years **2014 to 2024**.
 
