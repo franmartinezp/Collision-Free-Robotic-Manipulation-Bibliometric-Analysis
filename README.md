@@ -16,7 +16,7 @@ This repository contains resources associated with the article _‘Collision-Fre
 **Afiliations**:
 1. Institute for Engineering Research I3E, Miguel Hernández University, Spain.  
 2. Robotics Innovation Centre, German Research Centre for Artificial Intelligence (DFKI), Germany.  
-3. Yardstick Robotics GmbH, Alemania.  
+3. Yardstick Robotics GmbH, Germany.
 4. Operations Research Centre Institute, Miguel Hernández University, Spain.  
 
 **Contact**:  
